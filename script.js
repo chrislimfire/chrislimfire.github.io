@@ -13,10 +13,10 @@ const maxYesWidth = parseFloat(yesButtonStyle.maxWidth);
 
 // array of gifs - in order
 const gifs = [
-  "assets/images/togepi-happy.gif",
-  "assets/images/togepi-sad-1.gif",
-  "assets/images/togepi-sad-2.gif",
-  "assets/images/togepi-crying.gif",
+  "assets/images/peach-and-goma-kiss.gif",
+  "assets/images/peach-goma-okay-sad.gif",
+  "assets/images/peach-goma-crying-1.gif",
+  "assets/images/peach-goma-crying.gif",
 ];
 // array of messages for English
 const buttonMessagesEN = [
